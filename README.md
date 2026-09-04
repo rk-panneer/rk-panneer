@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi, I'm Panneer 👋
 
-<!--
-**rk-panneer/rk-panneer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Laravel/PHP Backend Engineer | AI/RAG & LLM Integration | Fintech-Grade Data Systems**
 
-Here are some ideas to get you started:
+8+ years building backend systems that handle high-volume data, complex workflows, and AI-driven automation — most recently leading data-warehouse and AI-assistant work processing 20M+ financial records.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently building **[Fivelands](https://fivelandstravel.com)** — an AI travel-planning platform for South India (live, real payments, 200+ curated destinations) and **[ReelBrain.AI](https://reelbrainai.v2globe.com)** — an Instagram content-strategy SaaS (open beta), both architected and shipped solo.
+- 💼 Available for freelance/contract work in Laravel backend architecture, AI/RAG pipelines, and fintech-grade data systems — see my [Upwork profile](#) or DM me.
+- 🧠 Stack: Laravel, PHP, PostgreSQL, Gemini/HuggingFace API integration, ChromaDB, RASA, Typesense, Filament.
+- 📫 Reach me: panneermca2017@gmail.com | [LinkedIn](https://www.linkedin.com/in/panneer-r/)
+
+---
+
+**Featured work**
+| Project | What it is |
+|---|---|
+| [Fivelands](https://fivelandstravel.com) | Live AI travel-planning + local-guide booking marketplace, South India |
+| [ReelBrain.AI](https://reelbrainai.v2globe.com) | AI Instagram content-strategy generator (3-stage LLM pipeline) |
+| *(sanitized repo)* | RAG retrieval pipeline extract — production pattern from a fintech knowledge-assistant build |
+| *(sanitized repo)* | Async job-batching pipeline extract — from a 20M-record financial data warehouse |
